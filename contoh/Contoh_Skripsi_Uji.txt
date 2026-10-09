@@ -1,0 +1,31 @@
+PENGARUH KUALITAS LAYANAN PERCETAKAN TERHADAP KEPUASAN MAHASISWA
+
+Oleh:
+Anisa Rahmawati
+NIM: 20250001
+
+ABSTRAK
+
+Penelitian ini bertujuan menjelaskan pengaruh layanan percetakan terhadap kepuasan mahasiswa. Pendekatan penelitian yang digunakan adalah kuantitatif dengan sampel 30 responden. Data dikumpulkan melalui kuesioner dan dianalisis menggunakan regresi linear. Hasil menunjukkan bahwa ketepatan waktu pelayanan memiliki hubungan dengan kepuasan mahasiswa, dengan nilai signifikansi 0,032. Temuan tersebut perlu dibaca dalam konteks lokasi penelitian dan karakteristik responden.
+
+Kata Kunci: layanan percetakan; kepuasan; mahasiswa
+
+1. PENDAHULUAN
+
+Kebutuhan mahasiswa terhadap layanan percetakan meningkat seiring penyusunan tugas akhir. Ketepatan waktu dan kualitas hasil cetakan menjadi bagian penting pelayanan. Menurut Sugiyono (2020), penelitian harus dilakukan dengan prosedur yang dapat diuji. Permasalahan penelitian ini adalah belum adanya gambaran mengenai hubungan kualitas pelayanan dan kepuasan pengguna pada lokasi yang dipilih. Tujuan penelitian adalah menjelaskan hubungan tersebut berdasarkan data lapangan yang tersedia.
+
+2. METODE PENELITIAN
+
+Penelitian ini menggunakan pendekatan kuantitatif dengan desain survei. Populasi penelitian adalah mahasiswa pengguna layanan percetakan. Sampel berjumlah 30 responden yang dipilih dengan teknik purposive sampling. Data dikumpulkan melalui kuesioner berisi 12 pernyataan. Instrumen diperiksa validitas dan reliabilitasnya sebelum digunakan. Analisis data dilakukan melalui regresi linear, dengan taraf signifikansi 0,05. Penelitian dilaksanakan di Pamekasan pada tahun 2025.
+
+3. HASIL DAN PEMBAHASAN
+
+Hasil analisis menunjukkan nilai koefisien regresi sebesar 0,45 dan nilai signifikansi 0,032. Sebanyak 24 dari 30 responden menyatakan puas terhadap ketepatan waktu pelayanan. Temuan ini menunjukkan hubungan antara ketepatan pelayanan dan kepuasan pengguna di lokasi penelitian. Tabel berikut memuat ringkasan data yang digunakan untuk mendukung pembahasan hasil. Kesimpulan tidak dapat digeneralisasikan ke seluruh pengguna karena sampel memiliki karakteristik khusus.
+
+4. KESIMPULAN
+
+Penelitian ini menyimpulkan bahwa terdapat hubungan antara ketepatan waktu pelayanan dan kepuasan responden pada lokasi penelitian. Nilai signifikansi sebesar 0,032 harus dipahami bersama desain survei dan ukuran sampel 30 responden. Peneliti menyarankan peningkatan pencatatan waktu layanan dan perluasan sampel pada penelitian berikutnya. Keterbatasan penelitian terletak pada lokasi tunggal, sehingga penerapan hasil pada tempat lain perlu dilakukan secara hati-hati.
+
+DAFTAR PUSTAKA
+
+Sugiyono. (2020). Metode Penelitian Kuantitatif. Bandung: Alfabeta.

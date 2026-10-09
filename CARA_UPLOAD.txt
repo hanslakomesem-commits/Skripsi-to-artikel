@@ -1,0 +1,38 @@
+ZAIN.NET ARTICLE STUDIO V2.1 — CARA MEMAKAI
+
+PILIHAN A: GITHUB PAGES
+Paket ini berisi 62 berkas, sehingga muat dalam satu unggahan browser GitHub.
+1. Ekstrak ZIP utama ke folder BARU/KOSONG agar tidak bercampur dengan versi lama.
+   Biarkan vendor/pdfjs/cmaps.zip tetap sebagai ZIP; aplikasi membukanya otomatis.
+2. Jika unggahan sebelumnya gagal, keluar dari halaman Upload files lalu buka
+   repository > Add file > Upload files lagi agar antrean lama kosong.
+3. Masuk ke folder hasil ekstrak yang berisi index.html. Pilih SELURUH isinya
+   (Ctrl+A), termasuk folder vendor, contoh, dan tests, lalu SERET ke area unggah.
+   Jangan hanya memilih file lewat tombol Choose your files: folder harus ikut.
+   Jangan menyeret folder pembungkusnya; index.html harus di root repository.
+4. Tunggu unggahan selesai, lalu klik Commit changes pada branch utama.
+5. Di repository: Settings > Pages > Deploy from a branch > main > /(root).
+   Jika branch utama bernama lain, pilih branch tersebut.
+6. Buka alamat GitHub Pages setelah deployment selesai.
+7. Jika tampilan lama tersimpan, gunakan Ctrl+Shift+R.
+
+GitHub membatasi unggahan browser hingga 100 berkas sekaligus dan 25 MiB per
+berkas. Seluruh berkas paket ini berada di bawah batas tersebut. Jangan unggah
+ZIP utama sebagai satu berkas: GitHub Pages memerlukan isi hasil ekstraknya.
+
+PILIHAN B: LAPTOP TANPA HOSTING
+1. Ekstrak ZIP seluruhnya; jangan menjalankan aplikasi dari dalam ZIP.
+2. Pasang Python 3 jika belum ada.
+3. Windows: klik dua kali MULAI_WINDOWS.bat.
+4. Mac/Linux: buka terminal di folder ini dan jalankan python3 serve.py.
+5. Browser terbuka pada localhost. Biarkan terminal tetap terbuka.
+   Jangan sekadar klik index.html; browser memblokir ES modules pada file://.
+
+MULAI MENYUSUN
+1. Untuk AI asli: klik Siapkan AI lokal, pilih model, lalu Aktifkan AI lokal.
+   Model bahasa tidak disertakan dalam ZIP; perlu diunduh sekali.
+2. Jika GPU tidak mendukung atau belum ingin mengunduh, pilih Draft dari teks sumber.
+3. Upload DOCX/PDF/TXT atau gambar scan, kemudian klik Susun artikel.
+4. Periksa tab Peta sumber dan Pemeriksaan. Isi belum ditemukan tidak dibuat-buat.
+5. Sunting isi bila perlu, lalu Unduh DOCX. Laporan juga dapat diunduh.
+6. Baca README.md untuk panduan Ollama, format, dan batas pemrosesan.
